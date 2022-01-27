@@ -1,0 +1,2 @@
+# bsnx_magisk
+Magisk
